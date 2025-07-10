@@ -1,0 +1,34 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data
+*data/
+*csv
+*.zip
+
+# Heavy models
+models/
+*.pkl
+*.joblib
+
+# environments
+fraud_env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Display outputs
+*.png
+*.jpg
+*.pdf
+
+# Temporary folders
+*.log
+*.tmp
+*.bak
